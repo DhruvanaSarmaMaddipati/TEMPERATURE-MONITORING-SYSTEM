@@ -29,5 +29,6 @@ The working process of the system is a continuous loop: the LM35 senses the ambi
 In conclusion, this Arduino-based temperature monitoring system offers a practical and efficient solution for various temperature sensing needs. Its applications are diverse, ranging from basic home temperature monitoring to more specialized uses in weather monitoring systems, agricultural fields, and industrial environments where precise temperature data is crucial. This project serves as an excellent example of interfacing sensors with microcontrollers to create useful and informative real-world applications
 
 output image:
+![Image](https://github.com/user-attachments/assets/7192a6f9-d744-4e30-ad00-cdc2b7562880)
 
 
